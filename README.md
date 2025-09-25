@@ -48,15 +48,4 @@ Selesai! Sekarang website-nya sudah berjalan di lokal.
 
 ---
 
-## 🎨 Kustomisasi (Jadikan Ini Punyamu!)
-
-Portofolio ini ibarat kanvas kosong. Berikut cara melukisnya dengan gayamu:
-
-* **Ubah Konten:** Buka file `index.html` dengan teks editor. Ganti semua teks placeholder seperti nama, bio, deskripsi proyek, dan pengalaman dengan data dirimu.
-* **Ganti Foto & Aset:** Simpan fotomu dan gambar proyek di dalam folder `assets/images/`. Lalu, perbarui path gambar di file `index.html`.
-* **Ganti Skema Warna:** Buka `style.css`. Di bagian atas, biasanya ada variabel warna atau komentar. Ubah kode warna `hex` sesuai dengan palet warna favoritmu.
-* **Update Link Sosial Media:** Cari bagian ikon sosial media di `index.html` dan ganti `href` dengan URL profilmu.
-
----
-
 Dibuat dengan ❤️ oleh [AKZeqw](https://github.com/AKZeqw).
