@@ -4,17 +4,7 @@
 
 Halo, dunia! 👋 Ini adalah kode sumber untuk website portofolio pribadi saya. Dibuat dengan *passion*, secangkir kopi, dan keinginan kuat untuk tampil beda. Desainnya dibuat simpel, *clean*, dan tentunya *mobile-first* biar keren dilihat di perangkat apa aja.
 
-**Live Demo:** [akzeqw.github.io/Portofolio](https://akzeqw.github.io/Portofolio) *(Ganti dengan link GitHub Pages Anda jika sudah di-deploy)*
-
----
-
-## 📸 Tampilan
-
-![image](https://github.com/user-attachments/assets/7b9ebc7e-9764-4e31-89e4-0062d106f30a)
-
-
-
-*(Tips: Ganti URL gambar di atas dengan screenshot website Anda agar lebih menarik!)*
+**Live Demo:** [https://portofolio-agung-two.vercel.app/](https://portofolio-agung-two.vercel.app/)
 
 ---
 
@@ -69,10 +59,4 @@ Portofolio ini ibarat kanvas kosong. Berikut cara melukisnya dengan gayamu:
 
 ---
 
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah **Lisensi MIT**. Artinya, Anda bebas menggunakan, memodifikasi, dan mendistribusikan proyek ini untuk keperluan pribadi maupun komersial.
-
----
-
-Dibuat dengan ❤️ oleh [AKZeqw](https://github.com/AKZeqw). Jangan ragu untuk *fork* atau kasih bintang jika kamu suka!
+Dibuat dengan ❤️ oleh [AKZeqw](https://github.com/AKZeqw).
