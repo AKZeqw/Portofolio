@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Halo, dunia! 👋 Ini adalah kode sumber untuk website portofolio pribadi saya. Dibuat dengan *passion*, secangkir kopi, dan keinginan kuat untuk tampil beda. Desainnya dibuat simpel, *clean*, dan tentunya *mobile-first* biar keren dilihat di perangkat apa aja.
+Halo, friends! 👋 Ini adalah kode sumber untuk website portofolio pribadi saya. Dibuat dengan *passion*, secangkir kopi, dan keinginan kuat untuk tampil beda. Desainnya dibuat simpel dan *clean*.
 
 **Live Demo:** [https://portofolio-agung-two.vercel.app/](https://portofolio-agung-two.vercel.app/)
 
